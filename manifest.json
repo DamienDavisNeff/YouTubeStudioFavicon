@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+   
+    "name": "YouTube Studio Favicon",
+    "version": "0.0.1.0",
+    "description": "Gives YouTube Studio's favicon the Studio Mobile App's icon, different from the main YouTube site.",
+    "icons":{
+      "128":"images/icon.png",
+      "48":"images/icon_small.png"
+    },
+    "content_scripts": [{
+      "js": ["global.js","siteChanges.js"],
+      "matches": ["https://studio.youtube.com/*"]
+    }],
+    "web_accessible_resources":[
+      {
+        "resources":["images/studio/favicon.png"],
+        "matches":["https://studio.youtube.com/*"]
+      }
+    ]
+}
