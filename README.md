@@ -15,3 +15,4 @@ A browser extension that changes the YouTube Studio Favicon to that of the mobil
 5. Click *Load Unpacked*
 6. Find The Folder You Extracted Earlier
 <br>**NOTE: YOU MUST KEEP THE EXTRACTED FOLDER**
+<br>*Sorry, I'm not good at giving instructions*
