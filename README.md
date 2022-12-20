@@ -3,6 +3,8 @@ A browser extension that changes the YouTube Studio Favicon to that of the mobil
 <br><br>
 **Install**
 <br>
+*Easy Way (Automatic Updates)*: Get In [The Chrome Webstore](https://chrome.google.com/webstore/detail/youtube-studio-favicon/mkafoonfjjnhnglfeiladhgnekbkggll/)
+<br>
 *Hard Way (Manual Updates)*
 <br>
 1. Download Source
